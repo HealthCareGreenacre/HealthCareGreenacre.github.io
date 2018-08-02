@@ -2630,6 +2630,9 @@ input, select, textarea {
 
 	}
 	
+	
+/* navigation bar */
+	
 	/* Add a black background color to the top navigation */
 .topnav {
     background-color: #333;
@@ -2654,6 +2657,6 @@ input, select, textarea {
 
 /* Add a color to the active/current link */
 .topnav a.active {
-    background-color: #4CAF50;
+    background-color:#152E33;
     color: white;
 }
